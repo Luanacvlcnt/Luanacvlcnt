@@ -13,7 +13,7 @@
 
 ### 👩‍💻 Sobre mim
 
-QA Automation Analyst com experiência em testes **web, mobile e API**. Atuo em todo o ciclo de qualidade — planejamento, automação, performance e CI/CD — colaborando com times ágeis para entregar software confiável.
+QA Engineer com experiência em testes **web, mobile e API**. Atuo em todo o ciclo de qualidade — planejamento, automação, performance e CI/CD — colaborando com times ágeis para entregar software confiável.
 
 ---
 
