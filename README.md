@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Luanacvlcnt/Luanacvlcnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Luana Cavalcante
+### QA Automation Analyst 
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/luana-cavalcante-a815a3194/)
+[![Gmail](https://img.shields.io/badge/lua.cavalcanti19@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lua.cavalcanti19@gmail.com)
+[![CTFL](https://img.shields.io/badge/ISTQB-CTFL-FFD700?style=flat-square)](https://www.istqb.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👩‍💻 Sobre mim
+
+QA Automation Analyst com experiência em testes **web, mobile e API**. Atuo em todo o ciclo de qualidade — planejamento, automação, performance e CI/CD — colaborando com times ágeis para entregar software confiável.
+
+---
+
+### 🛠️ Tecnologias
+
+**Automação**
+`Robot Framework` `Selenium` `Playwright` `Cypress`
+
+**API & Performance**
+`Postman` `Insomnia` `SoapUI` `JMeter` `K6`
+
+**Linguagens**
+`Python` `Java` `JavaScript`
+
+**Banco de Dados**
+`MySQL` `SQL Server` `Oracle`
+
+**DevOps & Gestão**
+`GitHub Actions` `AWS` `Jira` `Scrum` `Kanban`
+
+---
+
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luanacvlcnt&show_icons=true&theme=dark&hide_border=true&hide_title=true)
+
+📍 Recife, PE — Brasil
+
+</div>
