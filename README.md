@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Luana Cavalcante
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com]https://www.linkedin.com/in/luana-cavalcante-a815a3194/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-cavalcante-a815a3194/)
 [![Gmail](https://img.shields.io/badge/lua.cavalcanti19@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lua.cavalcanti19@gmail.com)
 
 </div>
